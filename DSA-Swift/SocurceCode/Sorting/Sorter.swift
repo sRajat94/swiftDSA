@@ -1,10 +1,6 @@
 //
 //  Sorter.swift
 //  DSA-Swift
-//
-//  Created by Shivam Jaiswal on 14/04/20.
-//  Copyright © 2020 Shivam Jaiswal. All rights reserved.
-//
 
 import UIKit
 
