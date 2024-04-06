@@ -1,10 +1,6 @@
 //
 //  MergeSort.swift
 //  DSA-Swift
-//
-//  Created by Shivam Jaiswal on 13/04/20.
-//  Copyright © 2020 Shivam Jaiswal. All rights reserved.
-//
 
 extension Sorter {
     func mergeSort(_ items: [Item]) -> [Item] {
