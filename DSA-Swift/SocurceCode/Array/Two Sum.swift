@@ -1,10 +1,6 @@
 //
 //  Two Sum.swift
 //  DSA-Swift
-//
-//  Created by Shivam Jaiswal on 22/04/20.
-//  Copyright © 2020 Shivam Jaiswal. All rights reserved.
-//
 
 import UIKit
 
